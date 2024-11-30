@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email_layout" type="id" />
+    <item name="password_layout" type="id" />
+    <item name="username_layout" type="id" />
+</resources>
